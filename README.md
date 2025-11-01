@@ -1,4 +1,4 @@
-Amir M. (Placeholder for Full Name)
+AmirMohammad MirMohammadi
 Python Backend Developer | Django Specialist | Computer Science Student
 Passionate about building scalable, secure backend systems with Python and Django. Currently a university student in Computer Science based in Iran, seeking opportunities in backend development—focusing on roles in Iran with openness to international remote positions. Experienced in RESTful APIs, containerization, and CI/CD pipelines. Eager to contribute to open-source and collaborative projects.
 Skills
@@ -16,18 +16,15 @@ Description: A full-featured backend-first application blending Trello, Notion, 
 Tech Stack: Python, Django, Django REST Framework, PostgreSQL, Docker, GitHub Actions.
 Key Learnings: Implemented MVT architecture, advanced database queries, security best practices (CSRF/XSS prevention, object-level permissions), and CI/CD pipelines. Adapted e-commerce concepts (projects as carts, tasks as products) for collaboration.
 Repository: github.com/AmirdotM/devtasker
-Deployment: Live on Render.com (link to your deployed app here).
 Contributions: Open to issues/PRs—built as a hands-on learning project for career advancement in backend dev.
 
-(Expand with more projects as ye build 'em, matey—aim for 3-5 to show depth.)
-Education
 
 Bachelor of Computer Science (Ongoing) – University in IranFocus on software engineering, algorithms, and database systems. Applying academic knowledge to real-world projects like DevTasker.
 
 Contact
 
-LinkedIn: linkedin.com/in/your-linkedin (Link to yer profile once set up)
-Email: your.email@example.com
+
+Email: amir0tom0@gmail.com
 Location: Iran (Available for remote opportunities globally)
 Open to: Backend dev roles in Python/Django, open-source contributions, and freelance gigs.
 
